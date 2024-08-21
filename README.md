@@ -136,6 +136,7 @@ v.	Minimizing Bias and Errors: thoughtfully designed prompts can help mitigate b
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: “Write about technology”
+
 Improved Prompt: “Discuss the impact of artificial intelligence on healthcare, focusing on recent advancements in diagnostic tools and patient care.”
 
 Explanation of Effectiveness
