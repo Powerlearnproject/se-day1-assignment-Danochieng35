@@ -5,12 +5,12 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-i.	Software engineering is the application of engineering principles to design, develop, test, and maintain software systems. It incorporates computer science elements, mathematics, and engineering to create reliable, efficient, and scalable software systems.
-ii.	The importance of software engineering in the Technology Industry is:
-iii.	Innovation - software engineering enables the development of new applications and services that enhance technological advancements hence solutions to human problems.
-iv.	Reliability - proper software engineering practices ensures development of stable and reliable software vital for applications in critical sectors such as healthcare, finance, and transportation.
-v.	Efficiency and Performance - software engineering prioritizes extensive software optimization for performance thus enabling faster execution of tasks using fewer resources.
-vi.	Scalability and Adaptability: software engineering principles enables development of scalable software that is flexible to growth with increased demands.
+Software engineering is the application of engineering principles to design, develop, test, and maintain software systems. It incorporates computer science elements, mathematics, and engineering to create reliable, efficient, and scalable software systems.
+
+i.	Innovation - software engineering enables the development of new applications and services that enhance technological advancements hence solutions to human problems.
+ii.	Reliability - proper software engineering practices ensures the development of stable and reliable software vital for applications in critical sectors such as healthcare, finance, and transportation.
+iii.	Efficiency and Performance - software engineering prioritizes extensive software optimization for performance thus enabling faster execution of tasks using fewer resources.
+iv.	Scalability and Adaptability: software engineering principles enables the development of scalable software that is flexible to growth with increased demands.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
